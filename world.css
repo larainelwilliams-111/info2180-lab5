@@ -1,0 +1,15 @@
+body { margin: 0; font-family: "Helvetica Neue", Arial, sans-serif; background: #f5f8fa; color: #333; }
+header { background: #4a5568; padding: 20px; text-align: center; }
+header h1 { margin: 0; color: #fff; font-size: 2em; }
+main { max-width: 800px; margin: 30px auto; padding: 0 15px; }
+#controls { text-align: center; margin-bottom: 20px; }
+#controls label { display: block; margin-bottom: 6px; }
+#controls input { width: 100%; max-width: 500px; padding: 8px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 3px; }
+#controls button { margin: 10px 4px 0; padding: 7px 16px; border: 0; border-radius: 3px; color: #fff; cursor: pointer; font-weight: bold; }
+#lookup { background: #2bb3a3; }
+#lookup-cities { background: #3b8ed0; }
+table { width: 100%; border-collapse: collapse; background: #fff; }
+th, td { padding: 8px 12px; text-align: left; border: 1px solid #e2e8f0; }
+th { text-align: center; }
+tbody tr:nth-child(even) { background: #f9fafb; }
+.error { color: #c0392b; text-align: center; }

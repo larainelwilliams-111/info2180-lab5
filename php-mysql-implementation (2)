@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 0e2bb0223cb2e032a145029cfb3a88130d129ac7 Laraine Williams <larainelwilliams@gmail.com> 1794412296 -0500	branch: Created from HEAD
+0e2bb0223cb2e032a145029cfb3a88130d129ac7 571bc07cd1948538e23ef15a6c4a4305f63bc022 Laraine Williams <larainelwilliams@gmail.com> 1794412391 -0500	commit: Added initial starter files
+571bc07cd1948538e23ef15a6c4a4305f63bc022 ca51810b55643b869f770adcb2553c8f320129cb Claude <noreply@anthropic.com> 1794412901 -0500	commit: Implement country and city lookup with PHP, SQL and AJAX
